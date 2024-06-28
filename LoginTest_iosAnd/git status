@@ -1,0 +1,29 @@
+[33mcommit a24414bd5723951f76bdd08cb2c23cd38c45a1a7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Nivetha0208 <nivethaaakasadurai@gmail.com>
+Date:   Fri Jun 28 14:49:31 2024 +0100
+
+    Created Test validations
+
+[33mcommit 7b9f06aa9465499fa5ac2cf53c32ae45ca382011[m
+Author: Nivetha0208 <nivethaaakasadurai@gmail.com>
+Date:   Fri Jun 28 14:40:06 2024 +0100
+
+    Created to handle interactions with login page
+
+[33mcommit 6a41f226ca0424f32abc3dd528c3ef1950c8471b[m
+Author: Nivetha0208 <nivethaaakasadurai@gmail.com>
+Date:   Fri Jun 28 14:28:44 2024 +0100
+
+    Establish connection with mobile devices -ios and Android
+
+[33mcommit 3a8d910f2b56b1bc49e86bb482d75f75a18a7389[m
+Author: Nivetha0208 <nivethaaakasadurai@gmail.com>
+Date:   Fri Jun 28 14:15:20 2024 +0100
+
+     Created classes for page, test and DriverSetUp
+
+[33mcommit 5a9453753a4ab5b3617b17c129781d714560ce89[m
+Author: Nivetha0208 <nivethaaakasadurai@gmail.com>
+Date:   Fri Jun 28 14:10:39 2024 +0100
+
+     Commiting files and Adding Dependencies in pom.xml
